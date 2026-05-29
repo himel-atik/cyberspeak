@@ -1,0 +1,10 @@
+{
+  "name": "CyberSpeak Pro",
+  "description": "An interactive, AI-powered system designed for cybersecurity professionals to master spoken English, client communication, vulnerability explanations, and interview skills.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
